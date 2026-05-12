@@ -41,11 +41,6 @@ a{
 	text-decoration: none;
 }
 
-img#omid{
-	width:200px;
-	padding-top:30px;
-	height: auto;
-}
 
 img#mcgill{
 	width:300px;
@@ -64,7 +59,7 @@ h1{
 
 	position: relative;
   bottom: 150px;
-	text-align: right;
+	text-align: center;
 }
 .garamond{
 	font-family: garamond; 
